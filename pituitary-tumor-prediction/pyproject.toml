@@ -1,0 +1,13 @@
+[project]
+name = "pituitary-tumor-prediction"
+version = "0.1.0"
+description = "Research-only baseline prediction workflow for pituitary tumor progression."
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.26",
+  "pandas>=2.2",
+  "scikit-learn>=1.4",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
