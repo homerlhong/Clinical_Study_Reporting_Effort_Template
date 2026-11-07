@@ -1,0 +1,1 @@
+patient_id,medication_name,start_date,stop_date,dose,dose_unit,frequency,treatment_intent,reason_for_change,adherence_assessment,missing_reason

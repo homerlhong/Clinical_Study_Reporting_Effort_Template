@@ -1,0 +1,1 @@
+patient_id,sample_date,hormone_name,hormone_value,hormone_unit,reference_lower,reference_upper,assay_platform,medication_state_at_sampling,igf1_uln_ratio,missing_reason
