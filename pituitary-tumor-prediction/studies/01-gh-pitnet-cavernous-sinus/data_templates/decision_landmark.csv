@@ -1,0 +1,2 @@
+patient_id,landmark_date,eligible_at_landmark,residual_tumor_present,residual_volume_mm3,residual_cavernous_sinus,residual_optic_distance_mm,igf1_value,igf1_uln_ratio,gh_random_ng_ml,ogtt_gh_nadir_ng_ml,new_hypopituitarism,granulation_pattern,sstr2_intensity,ki67_percent,knosp_grade,planned_strategy,strategy_start_date,strategy_reason,mdt_discussed,patient_preference_documented
+EXAMPLE_001,2026-01-01,1,1,850,1,5.2,420,1.8,2.4,0.9,0,sparsely_granulated,3,2.1,4,medical_first,2026-01-15,persistent_biochemical_activity,1,1
