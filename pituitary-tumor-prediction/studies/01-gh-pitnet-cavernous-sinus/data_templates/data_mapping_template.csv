@@ -1,0 +1,10 @@
+target_table,target_variable,source_system,source_field,source_type_or_unit,extraction_logic,transformation_rule,time_window,missing_handling,conflict_rule,qc_rule,reviewer,status,notes
+patient_baseline,patient_id,,,,,,,,,,,,
+patient_baseline,index_surgery_date,,,,,,,,,,,,
+preop_mri,knosp_grade,,,,,,,,,,,,
+early_postop,postoperative_residual,,,,,,,,,,,,
+early_postop,early_igf1_uln_ratio,,,,,,,,,,,,
+radiotherapy_events,rt_actual_date,,,,,,,,,,,,
+radiotherapy_events,margin_dose_gy,,,,,,,,,,,,
+followup_events,assessment_date,,,,,,,,,,,,
+followup_events,event_adjudication_status,,,,,,,,,,,,
